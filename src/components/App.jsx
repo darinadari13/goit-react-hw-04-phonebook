@@ -8,7 +8,7 @@ export default function App() {
     return JSON.parse(window.localStorage.getItem('contacts') ?? []);
   });
 
-const [filter, setFilter] = useState('');
+  const [filter, setFilter] = useState('');
 
 
 
