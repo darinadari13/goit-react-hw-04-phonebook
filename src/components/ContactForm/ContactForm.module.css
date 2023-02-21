@@ -1,0 +1,25 @@
+.form {
+  border: 2px solid black;
+  margin: 10px;
+  width: 600px;
+}
+
+.title {
+  margin: 10px;
+}
+.nameInput {
+  margin: 10px;
+}
+
+.numberInput {
+  margin: 10px;
+}
+
+.btn {
+  color: blue;
+}
+
+.btn:hover {
+  background-color: yellow;
+  cursor: pointer;
+}

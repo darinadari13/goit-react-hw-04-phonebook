@@ -1,0 +1,16 @@
+.list {
+  margin: 10px;
+}
+.listItem {
+  margin: 5px;
+}
+
+.deleteBtn {
+  margin: 5px;
+}
+
+.deleteBtn:hover {
+  background-color: blue;
+  color: yellow;
+  cursor: pointer;
+}
